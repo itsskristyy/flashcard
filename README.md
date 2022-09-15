@@ -4,10 +4,7 @@
 This is a flashcard app, when you click on it you'll be able to see the answer to the question. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://user-images.githubusercontent.com/22526253/190436753-3ee9f3cf-92fd-49c0-b405-99bf01e1ba7b.gif" width=200><br>
-
 
 ## Required
 - [x] Create New Project in Xcode

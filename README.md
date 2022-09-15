@@ -1,7 +1,7 @@
 ## Lab 1: Flash Card
 
 ### App Description
-This is a flashcard app that allows you to toggle back and forth between the question/answer.
+This is a flashcard app, when you click on it you'll be able to see the answer to the question. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)

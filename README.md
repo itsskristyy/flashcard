@@ -4,11 +4,7 @@
 This flashcard app now allows users to add their own question/answer to the screen using another screen in the app. It also gives you an error if you leave it blank.  
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://user-images.githubusercontent.com/22526253/193472063-0d980efb-efa2-403e-a122-9a1cdd2dd094.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
@@ -16,7 +12,7 @@ This flashcard app now allows users to add their own question/answer to the scre
 - [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [x] Push code to GitHub
 ## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [x] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
 

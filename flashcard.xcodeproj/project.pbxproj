@@ -16,6 +16,7 @@
 		18461B4B28CAB00D008EB721 /* flashcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18461B4A28CAB00D008EB721 /* flashcardTests.swift */; };
 		18461B5528CAB00D008EB721 /* flashcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18461B5428CAB00D008EB721 /* flashcardUITests.swift */; };
 		18461B5728CAB00D008EB721 /* flashcardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18461B5628CAB00D008EB721 /* flashcardUITestsLaunchTests.swift */; };
+		18B0A7F028E90214000593CB /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B0A7EF28E90214000593CB /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18461B5028CAB00D008EB721 /* flashcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18461B5428CAB00D008EB721 /* flashcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardUITests.swift; sourceTree = "<group>"; };
 		18461B5628CAB00D008EB721 /* flashcardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18B0A7EF28E90214000593CB /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		18461B2728CAB00B008EB721 = {
 			isa = PBXGroup;
 			children = (
+				18B0A7EF28E90214000593CB /* CreationViewController.swift */,
 				18461B3228CAB00B008EB721 /* flashcard */,
 				18461B4928CAB00D008EB721 /* flashcardTests */,
 				18461B5328CAB00D008EB721 /* flashcardUITests */,
@@ -261,6 +264,7 @@
 				18461B3828CAB00B008EB721 /* ViewController.swift in Sources */,
 				18461B3428CAB00B008EB721 /* AppDelegate.swift in Sources */,
 				18461B3628CAB00B008EB721 /* SceneDelegate.swift in Sources */,
+				18B0A7F028E90214000593CB /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

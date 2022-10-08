@@ -12,11 +12,15 @@ class CreationViewController: UIViewController {
     @IBOutlet weak var questionTextField: UITextField!
     @IBOutlet weak var answerTextField: UITextField!
     
+    var initialQuestion: String?
+    var initialAnswer: String?
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        questionTextField.text = initialQuestion
+        answerTextField.text = initialAnswer
         
-
         // Do any additional setup after loading the view.
     }
     @IBAction func didTapOnCancel(_ sender: Any) {

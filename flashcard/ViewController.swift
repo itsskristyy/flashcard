@@ -64,6 +64,7 @@ class ViewController: UIViewController {
           UIView.animate(withDuration: 0.3) {
               self.card.transform = CGAffineTransform.identity
           }
+       
       }
     
     func updateFlashcard(question: String, answer: String){
